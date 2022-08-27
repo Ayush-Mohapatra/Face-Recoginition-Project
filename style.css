@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+    color:darkmagenta;
+}
+#Camera{
+    border: 3px dashed yellow;
+    width:350px;
+    height:300px
+}
